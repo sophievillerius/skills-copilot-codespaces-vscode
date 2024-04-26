@@ -1,4 +1,4 @@
-function skillsMember()skills) {
+function skillsMember() {
   return skills.map(skill => {
     return {
       name: skill.name,
